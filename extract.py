@@ -78,6 +78,7 @@ for l in lang:
                                         dict_persons[p]["roles"].append(k)
                                         dict_persons[p]["dates"].append(dct["date"].strftime("%Y/%m/%d"))
 
+
 import csv
 import json
 ## NOW I SAVE THE AUTHORS DATA 
