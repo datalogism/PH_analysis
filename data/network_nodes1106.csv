@@ -1,0 +1,309 @@
+id;name;size;team;country;speciality;academic role;ph role
+1;Ângela Pité;1;PT;;0;;reviewers
+2;Abby Schreiber;2;EN;EN;0;;reviewers
+3;Adam Crymble;63;EN;UK;digital history;Senior Lecturer;editor
+4;Adam Dennett;1;EN;EN;0;;reviewers
+5;Adriana Cásarez;1;ES;ES;0;;reviewers
+6;Alan MacEachern;1;EN;EN;history;;reviewers
+7;Aldo Barriente;1;ES;ES;0;;reviewers
+8;Alex Brey;1;EN;EN;visual arts;Assistant Professor;authors
+9;Alex Wermer-Colan;1;EN;USA;0;;editor
+10;Alexandre Bartz;1;FR;FR;digital humanities;MSc;reviewers
+11;Alicia Calvo;1;ES;ES;0;;reviewers
+12;Alix Chagué;3;FR;FR;digital humanities;Phd;reviewers
+13;Allison Hegel;2;EN;DE;english studies;Post-doc;reviewers
+14;Amanda Morton;7;EN;EN;digital history;;reviewers
+15;Amanda Visconti;3;EN;US;digital humanities;Assistant Professor;authors
+16;Amber Stubbs;1;EN;EN;0;;reviewers
+17;Ana Alcântara;1;PT;;0;;reviewers
+18;Ana Carolina Erthal;1;PT;;0;;reviewers
+19;Ana Giulia Aldgeire;2;PT;;0;;reviewers
+20;Anandi Silva Knuppel;3;EN;EN;digital humanities;;reviewers
+21;Anastasiia Zadykhina;1;FR;FR;digital humanities;;translator
+22;Andrés Gattinoni;1;ES;AR;literature;Phd;translator
+23;Andrew Akhlaghi;1;EN;US;0;MA;authors
+24;Andrew Janco;1;EN;EN;0;;authors
+25;Anna-Maria Sichani;5;EN;UK;digital humanities and history;Researcher;editor
+26;Anne Chao;1;EN;EN;mathematic;;reviewers
+27;Anne-Sophie Bessero-Lagarde;1;FR;FR;0;;translator
+28;Anouk Lang;1;EN;EN;library science;;reviewers
+29;Anthony Picón Rodríguez;1;ES;ES;0;;authors
+30;Antoine Champigny;1;FR;FR;0;;reviewers
+31;Antoine Courtin;1;FR;FR;art history;Chef du service numÃ©rique de la recherche;reviewers
+32;Antoine Gourlay;1;FR;FR;0;;translator
+33;Antoine Henry;2;FR;FR;0;;reviewers
+34;Antonio Jesús Sánchez Padial;1;ES;ES;computer science;Jefe de Servicio de BiometrÃ­a;reviewers
+35;Antonio Rojas Castro;46;ES;DE;literature;Post-doc;reviewers
+36;Antonio Sánchez-Padial;2;ES;ES;computer science;M.Sc. Software Engineering;reviewers
+37;Aracele Torres;2;PT;BR;history;Phd;translator
+38;Armando Luza;1;ES;ES;translation;;authors
+39;Arthur Perret;1;FR;FR;library science;Master;reviewers
+40;Aurélien Berra;1;EN;FR;sci; None;reviewers
+41;Basthian Medina;2;ES;CL;literature;Magister;reviewers
+42;Beatrice Alex;1;EN;EN;linguistics;;authors
+43;Ben Hurwitz;1;EN;US;mathematic;Bachelor;reviewers
+44;Ben Schmidt;1;EN;EN;history;;reviewers
+45;Boris Capitanu;1;EN;EN;computer science;;authors
+46;Brad Rittenhouse;1;EN;EN;digital humanities;;authors
+47;Brandee Easter;1;EN;EN;0;;reviewers
+48;Brandon Hawk;1;EN;US;history;MA;reviewers
+49;Brandon Locke;1;EN;EN;0;;reviewers
+50;Brandon Walsh;11;EN;USA;digital humanities;Mellon Digital Humanities Fellow and Visiting Assistant Professor of English;editor
+51;Brenta Blevins;1;EN;EN;english studies;;reviewers
+52;Brianna Allen;1;EN;EN;0;;reviewers
+53;Brice Lebrun;1;FR;FR;0;Master;authors
+54;Bruno Gasparotto Ponne;1;PT;;0;;translator
+55;Bruno Martins;7;PT;PT;chimy;Phd;reviewers
+56;Bruno Ponne;1;PT;BR;history;Bachelor;reviewers
+57;Célian Ringwald;2;FR;FR;computer science;Research Engineer;reviewers
+58;Caio Mello;1;PT;;0;;translator
+59;Caleb McDaniel;2;EN;EN;history;;authors
+60;Camille Carette;1;FR;FR;0;;translator
+61;Camilo Murcia Galindo;1;ES;ES;0;;reviewers
+62;Carla Amaya;1;FR;FR;0;;translator
+63;Carlos Loz;1;ES;ES;0;;reviewers
+64;Carlos Manuel Varón Castañeda;1;ES;CO;linguistics;LingÃ¼ista;translator
+65;Catherine DeRose;3;EN;US;digital humanities;Outreach and Engagement Manager;reviewers
+66;Catherine Nygren;1;EN;EN;0;;reviewers
+67;Catherine Paulin;1;FR;FR;english studies;Professor;reviewers
+68;Celeste Tường Vy Sharpe;1;EN;EN;history;;reviewers
+69;Charlie Harper;1;EN;US;library science;Phd;authors
+70;Charlotte Tupman;1;EN;GB;political science;Lecturer;reviewers
+71;Christopher N. Warren;1;EN;GB;literature;Phd;authors
+72;Clemens Neudecker;1;EN;NL;library science;Technical Coordinator Research;reviewers
+73;Courtney Allen;1;EN;EN;0; None;authors
+74;Cyrille Suire;1;FR;FR;0;;reviewers
+75;Déborah Dubald;1;FR;IT;history;Phd;reviewers
+76;Daniel Alves;3;PT;PT;0;;editor
+77;Daniel Bonatto Seco;2;PT;;0;;reviewers
+78;Daniel Macfarlane;4;EN;EN;history;;authors
+79;Daniela Ávido;1;ES;ES;0;;reviewers
+80;Danielle Sanches;7;PT;BR;political science;;editor
+81;Dave Rodriguez;2;FALSE;US;library science;Master;authors
+82;Dave Shepard;1;EN;EN;0;;reviewers
+83;David Kloster;1;EN;US;computer science;Master;authors
+84;David Merino Recalde;1;ES;ES;art;TÃ­tulo Superior en Arte DramÃ¡tico;reviewers
+85;Dennis Tenen;1;EN;EN;literature;;authors
+86;Derek Price;1;EN;EN;0;;reviewers
+87;Diana Rebelo Rodriguez;4;PT;;0;;translator
+88;Doug Knox;1;EN;EN;digital humanities;;authors
+89;Ed Summers;1;EN;EN;0;;reviewers
+90;Eleni Gadolou;1;EN;EN;0;;reviewers
+91;Elisa Beshero-Bondar;1;EN;US;english studies;Associate Professor;reviewers
+92;Elizabeth Freire;1;PT;;0;;reviewers
+93;Eric Weinberg;1;EN;EN;history;;authors
+94;Erin N. Bush;2;EN;US;art history and developer;Phd;reviewers
+95;Evan Peter Williamson;1;EN;CA;digital humanities and library science;Master;authors
+96;Ezra Brooks;1;EN;EN;0;;reviewers
+97;Fanny Mézard;1;FR;FR;0;;reviewers
+98;Felipe Lamarca;7;PT;BR;political science;Licence;translator
+99;Finn Arne Jørgensen;4;EN;SE;religious studies;Associate Professor;reviewers
+100;Florian Cafiero;1;FR;FR;0;Engineer;reviewers
+101;Floriane Chiffoleau;1;FR;FR;0;;reviewers
+102;Folgert Karsdorp;1;EN;EN;0;;reviewers
+103;Frédéric Clavert;2;FALSE;GB;political science;Year abroad (Erasmus);reviewers
+104;François Dominic Laramée;16;FR;CA;computer science;Post-doc;reviewers
+105;Francesca Benatti;1;EN;EN;0;;reviewers
+106;Fred Gibbs;12;EN;EN;history;;editor
+107;Frederik Elwert;10;EN;DE;religious studies;Phd;reviewers
+108;Géraldine Castel;1;FR;FR;0;;translator
+109;Gabi Kirilloff;1;EN;US;english studies;Phd;authors
+110;Gabriel Calarco;2;ES;ES;0;;authors
+111;Gabriela Elgarrista;1;ES;ES;0;;reviewers
+112;Gabriela Kucuruza;3;PT;;0;;translator
+113;Gimena del Río Riande;1;ES;ES;library science;;authors
+114;Gimena del Rio Riande;1;ES;ES;0;;translator
+115;Go Sugimoto;1;EN;AT;data analysis; None;authors
+116;Grant Wythoff;1;EN;EN;literature;;authors
+117;Guillaume Florent;1;FR;FR;0;;reviewers
+118;Gustavo Candela;2;FALSE;ES;0;Research Engineer;authors
+119;Guy McClellan;1;EN;EN;0;;reviewers
+120;Gwenaëlle Patat;1;FR;FR;0;;editor
+121;Halle Burns;1;EN;US;library science;Graduate Assistant;authors
+122;HD CAICYT Lab team;1;ES;ES;0;;translator
+123;Heather Froehlich;1;EN;GB;gender studies;Phd;authors
+124;Hugo Bonin;1;FR;CA;political science;Phd;translator
+125;Iñaki Cano;1;ES;ES;0;;reviewers
+126;Ian Araujo;4;PT;;0;;reviewers
+127;Ian Milligan;14;EN;CA;history;Intern;editor
+128;Ignacio Rodríguez;1;ES;IT;hispanic studies; None;reviewers
+129;Isabelle Gribomont;1;FR;FR;0;;reviewers
+130;Ivo Veiga;2;PT;GB;political science;Phd;reviewers
+131;Jack Pay;1;EN;EN;0;;reviewers
+132;Jacob W. Greene;1;EN;EN;literature;;authors
+133;Jairo A. Melo;20;ES;DE;political science;Associate Professor;reviewers
+134;Jairo Antonio Melo Flórez;1;ES;ES;0;;authors
+135;Jairo Melo;1;ES;ES;0;;reviewers
+136;James Baker;6;EN;UK;digital history;;authors
+137;Jamie Howe;1;EN;EN;0;;reviewers
+138;Jan Rybicki;1;EN;PL;0;Magister;reviewers
+139;Jane Winters;1;EN;EN;0;;reviewers
+140;Jason Crider;1;EN;US;english studies;Graduate Research Fellow;reviewers
+141;Jason Heppler;1;EN;US;library science;Academic Technology Specialist;reviewers
+142;Jean-Luc Mirepoix;1;FR;FR;0;;reviewers
+143;Jeff Blackadar;1;EN;CA;ICS;Bachelor;authors
+144;Jeff Veitch;1;EN;GB;english studies;MPhil;reviewers
+145;Jennifer Isasi;19;ES;US;hispanic studies;CLIR/DLF Postdoctoral Fellow in Data Curation for Latin American and Latina/o Studies;reviewers
+146;Jeri Wieringa;5;EN;US;history;Phd;editor
+147;Jesse Sadler;2;EN;EN;0;;reviewers
+148;Jessica Otis;1;EN;US;digital humanities;Digital Humanities Specialist;authors
+149;Jessica Parr;4;EN;US;history;Project Assistant;editor
+150;Jim Clifford;22;EN;CA;history;Associate Professor;reviewers
+151;Jimmy Medeiros;10;PT;BR;political science;Researcher;editor
+152;João Gilberto Neves Saraiva;1;PT;BR;history;Licenciado;translator
+153;Joana Vieira Paulino;6;PT;PT;history;Phd;reviewers
+154;Joanna Swafford;1;EN;US;english studies;Assistant Professor;reviewers
+155;John Fink;2;EN;US;library science;Master;reviewers
+156;John R. Ladd;2;EN;US;english studies;Post-doc;authors
+157;John Russell;2;EN;US;religious studies;MLS;reviewers
+158;Jon Crump;1;EN;EN;digital humanities;;authors
+159;Jon MacKay;1;EN;EN;management;;authors
+160;Jonathan Blaney;2;EN;EN;digital humanities;;authors
+161;Jonathan Reeve;1;EN;US;literature and developer;Web Developer;authors
+162;José Antonio Motilla;10;ES;MX;history;Profesor;reviewers
+163;José Calvo Tello;1;ES;ES;0;;reviewers
+164;José Luis Losada;1;ES;ES;0;;reviewers
+165;Joseba Moreno;2;ES;ES;0;;reviewers
+166;Josh MacFadyen;4;EN;CA;history and environment;Phd;authors
+167;Josh Romphf;1;EN;EN;0;;reviewers
+168;Joshua G. Ortiz Baco;4;ES;US;literature;Graduate Research Assistant, Digital Scholarship Lab Manager;editor
+169;Joshua Ortiz-Baco;1;ES;ES;literature;MA;reviewers
+170;Josir C. Gomes;4;PT;;0;;translator
+171;Josir Cardoso Gomes;3;PT;BR;management;Phd;editor
+172;Juan Camilo Murcia;1;ES;ES;0;;reviewers
+173;Juan Cobo;1;ES;GB;history;Phd;reviewers
+174;Juliana Marques da Silva;1;PT;;0;;reviewers
+175;Justin Colson;1;EN;GB;history;Lecturer;authors
+176;Justin Larsen;1;EN;EN;0;;reviewers
+177;Kahlila Chaar-Pérez;1;ES;ES;0;;reviewers
+178;Kellen Kurschinski;1;EN;EN;history;;authors
+179;Kim Pham;1;EN;CA;library science;Molecular Biology;authors
+180;Konrad Lawson;1;EN;US;history;Phd;reviewers
+181;Léon Robichaud;1;EN;EN;0;;reviewers
+182;Laura Turner O'Hara;1;EN;EN;history;;authors
+183;Lauren Tilton;3;EN;US;digital humanities;Associate Professor;reviewers
+184;Lee Skallerup Bessette;1;EN;EN;0;;reviewers
+185;Lisa Lowry;1;EN;EN;0;;reviewers
+186;Lizzie Scholtus;1;FR;FR;0;;reviewers
+187;Lorena Campuzano;1;ES;ES;0;;translator
+188;Lucas Terriel;1;FR;FR;0;;translator
+189;Luis Ferla;1;PT;BR;0;;reviewers
+190;Luisina Silva;1;ES;ES;0;;reviewers
+191;Luke Bergmann;1;EN;EN;history;;reviewers
+192;Luling Huang;1;EN;EN;0;;reviewers
+193;M. H. Beals;4;EN;EN;digital history;;reviewers
+194;M. Willis Monroe;1;EN;US;history;Phd;reviewers
+195;Márcia T. Cavalcanti;1;PT;;0;;translator
+196;Manon Durier;1;FR;FR;;;reviewers
+197;Manuel Marco Such;1;ES;ES;0;;authors
+198;María Dolores Sáez;1;ES;ES;0;;authors
+199;María José Cabra Montes;1;ES;ES;0;;translator
+200;María Pilar Escobar;1;ES;ES;0;;authors
+201;María-Jesús Colmenero-Ruiz;2;ES;ES;0;Licenciado;translator
+202;Marcelo Raimundo;1;ES;ES;0;;authors
+203;Marco Büchler;1;EN;EN;0;;reviewers
+204;Maria Guedes;2;PT;;0;;reviewers
+205;María José Afanador-Llach;31;ES;US;history;Assistant Professor;reviewers
+206;Mariana Affonso Penna;1;PT;BR;history;Phd;translator
+207;Marie Puren;2;FR;FR;history;Post-doc;reviewers
+208;Marie-Anne Vibet;1;FR;FR;digital humanities;;reviewers
+209;Marie-Christine Boucher;5;FR;DE;literrature;Phd;reviewers
+210;Marten Düring;1;EN;EN;littérature;;authors
+211;Martin Grandjean;1;FR;CH;history;Phd;reviewers
+212;Mathilda Shepard;1;ES;ES;art history;;reviewers
+213;Matteo Romanello;1;EN;GB;digital humanities;Phd;authors
+214;Matthew J. Lavin;1;EN;US;literature;Clinical Assistant Professor and Director of Digital Media Lab;authors
+215;Matthew Lincoln;4;EN;US;art history and developer; None;editor
+216;Matthias Gille Levenson;1;FR;FR;0;;editor
+217;Max De Wilde;1;EN;BE;ICS;Phd;authors
+218;Megan Kudzia;2;EN;US;library science;Master;reviewers
+219;Megan R. Brett;1;EN;GB;digital history;MSc;authors
+220;Melanie Walsh;1;EN;US;0;Phd;reviewers
+221;Melissa Jerome;1;ES;US;library science;Project Manager;reviewers
+222;Michelle Moravec;1;EN;EN;0;;reviewers
+223;Miguel Cuadros;1;ES;US;history;Master;authors
+224;Miriam Posner;19;EN;EN;digital humanities;;editor
+225;Morgane Pica;1;FR;FR;0;;reviewers
+226;Moritz Mähr;1;EN;CH;political science;Master;authors
+227;Nabeel Siddiqui;2;EN;US;digital humanities and american studies;;authors
+228;Nancy Lemay;1;EN;EN;0;;reviewers
+229;Nick Ruest;3;EN;US;computer science;Adjunct Faculty;reviewers
+230;Nicolás Vaughan;2;ES;GB;phil;Tutor in Logic;authors
+231;Nicolas Frerebeau;1;FR;FR;art history and archeology;Phd;authors
+232;Nidia Hernández;1;ES;ES;0;;translator
+233;Nora McGregor;1;EN;EN;0;;reviewers
+234;Oliver Duke-Williams;1;EN;EN;0;;reviewers
+235;Paige Morgan;1;EN;US;english studies;Digital Humanities Librarian;reviewers
+236;Patrick Burns;3;EN;US;english studies;Phd;reviewers
+237;Patrick Smyth;1;EN;EN;literature;;authors
+238;Pedro Carrillo;1;ES;ES;0;;reviewers
+239;Peggy Griesinger;1;EN;US;library science;Metadata & Cataloging Librarian;reviewers
+240;Peter Organisciak;1;EN;US;ICS;Phd;authors
+241;Peter Webster;2;EN;EN;0;;reviewers
+242;Puteri Zarina Megat Khalid;1;EN;EN;literature;;reviewers
+243;Qiwei Li;1;EN;US;medical;Assistant Professor;reviewers
+244;Quinn Dombrowski;2;EN;US;computer science;Digital Scholarship Specialist / IT Analyst;authors
+245;Rômulo Predes;3;PT;BR;political science;Bachelor;reviewers
+246;Rafael Laguardia;1;PT;;0;;translator
+247;Raffaele Viglianti;1;ES;GB;digital humanities;Phd;translator
+248;Randa El Khatib;1;EN;EN;0;;reviewers
+249;Renato Rocha Souza;5;PT;BR;literrature;Lecturer;reviewers
+250;Riva Quiroga;7;ES;CH;linguistics;Phd;reviewers
+251;Rob Sieczkiewicz;1;EN;EN;library sciene;Director;reviewers
+252;Rocío Méndez;1;ES;ES;0;;reviewers
+253;Romina De León;1;ES;AR;0;TÃ©cnico auxiliar;translator
+254;Romulo Predes;1;PT;BR;political science;Bachelor;reviewers
+255;Rosa María Muñoz Mendo;1;ES;ES;library science;;reviewers
+256;Ruben Verborgh;1;EN;EN;computer science;;authors
+257;Russell Alleen-Willems;1;EN;EN;0;;reviewers
+258;Ryan Cordell;1;EN;US;english studies;Associate Professor;reviewers
+259;Ryan Deschamps;6;EN;EN;digital history;;reviewers
+260;Ryan Muther;1;EN;EN;0;;reviewers
+261;Samuel Van Ransbeeck;1;PT;GB;0;artist;reviewers
+262;Sandra van Ginhoven;1;EN;EN;0;;reviewers
+263;Sarah Connell;1;EN;EN;librarian;;reviewers
+264;Sarah Simpkin;4;EN;CA;library science and GIS;Librarian;reviewers
+265;Scholars' Lab Community;1;EN;EN;0;;authors
+266;Scott Weingart;2;EN;EN;digital humanities and history;;authors
+267;Sean Morey;1;EN;EN;0;;reviewers
+268;Sebastian Fiori;1;ES;ES;0;;translator
+269;Seth Bernstein;1;EN;EN;history;Assistant Professor;authors
+270;Seth van Hooland;1;EN;EN;ICS;;authors
+271;Sharon Howard;2;EN;GB;history;Project Manager;reviewers
+272;Shawn Graham;6;EN;GB;digital humanities and history;Professor;authors
+273;Sheila Brennan;1;EN;US;art history;Associate Director;reviewers
+274;Silvia Gutiérrez;2;ES;ES;0;;reviewers
+275;Silvia Gutiérrez De la Torre;2;ES;ES;0;;authors
+276;Simon Appleford;1;EN;US;0; None;reviewers
+277;Simon Hengchen;1;EN;FI;0; None;authors
+278;Sofia Papastamkou;17;FR;FR;history;Engineer;editor
+279;Stéfan Sinclair;1;EN;EN;0;;reviewers
+280;Stephanie J. Richmond;1;EN;EN;history;;authors
+281;Stephen Krewson;1;EN;US;literature and computer science;Bachelor;authors
+282;Suemi Higuchi;1;PT;;0;;reviewers
+283;Susan Grunewald;1;EN;US;history;Phd;authors
+284;Sybille Clochet;1;FR;FR;0;;translator
+285;Sylvain Machefert;3;FR;FR;library science;Manager;translator
+286;Sylvia Fernández Quintanilla;1;EN;EN;0;;reviewers
+287;Taryn Dewar;1;EN;EN;public history;;authors
+288;Tassie Gniady;1;EN;EN;0;;authors
+289;Taylor Arnold;4;EN;US;statistics;Project Manager;reviewers
+290;Ted Dawson;1;EN;US;german studies;Phd;authors
+291;Telmo Menezes;1;EN;PT;literature and developer;Phd;reviewers
+292;Terhi Nurmikko-Fuller;1;EN;GB;digital humanities;Phd;reviewers
+293;Tesla Cariani;1;EN;EN;0;;reviewers
+294;Tessa C Hauswedell;1;EN;EN;history;;reviewers
+295;Thomas Jurczyk;1;EN;EN;0;;authors
+296;Thomas Soubiran;2;FR;FR;0;;reviewers
+297;Tim Compeau;1;EN;EN;0;;reviewers
+298;Tommy Tavenner;1;EN;EN;data architecture and developer;;authors
+299;Ulrike Henny-Krahmer;1;ES;DE;linguistics;Research Assistant;translator
+300;Víctor Gayol;28;ES;MX;history;Professor;translator
+301;Victor Gayol;4;ES;MX;history;Profesor;editor
+302;Viera Rebolledo-Dhuin;1;FR;FR;0;Post-doc;reviewers
+303;Vilja Hulden;1;EN;EN;history;;authors
+304;Vincent Paillusson;1;FR;FR;0;MSc;authors
+305;William J. Turkel;20;EN;US;history;Professor;authors
+306;Ximin Mi;1;EN;EN;ICS;;authors
+307;Zoé  Wilkinson Salda;3;#REF!;#REF!;0;;authors
+308;Zoe LeBlanc;3;EN;USA;digital humanities developer;Assistant Professor;reviewers
