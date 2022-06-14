@@ -26,7 +26,7 @@ from itertools import combinations
 list_person_country={}
 list_country={}
 n=0
-with open('C:/Users/Celian/Desktop/PH_study/final_list.csv', newline='', encoding='utf-8') as csvfile:
+with open('C:/Users/Celian/Desktop/PH_DHnord/PH_analysis/data/final_list.csv', newline='', encoding='utf-8') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     next(spamreader)
     for row in spamreader:
@@ -35,6 +35,10 @@ with open('C:/Users/Celian/Desktop/PH_study/final_list.csv', newline='', encodin
         except:
             name=row[0]
         country=row[22]
+        if(country=="EN" or country=="UK"):
+            country="GB"
+        if(country=="USA"):
+            country="US"
         n+=1
         if country in list_country.keys():
             list_country[country]+=1

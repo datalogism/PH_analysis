@@ -26,7 +26,8 @@ from itertools import combinations
 list_person_role={}
 list_role={}
 n=0
-with open('C:/Users/Celian/Desktop/PH_study/final_list.csv', newline='', encoding='utf-8') as csvfile:
+
+with open('C:/Users/Celian/Desktop/PH_DHnord/PH_analysis/data/final_list.csv', newline='', encoding='utf-8') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     next(spamreader)
     for row in spamreader:
@@ -38,6 +39,20 @@ with open('C:/Users/Celian/Desktop/PH_study/final_list.csv', newline='', encodin
         role0=row[25]
         if(role0=="Profesor"):
             role0="Professor"
+        if(role0=="MA" or role0=='MPhil' or role0=="Magister" or role0=="MSc" or role0=="M.Sc. Software Engineering"):
+            role0="Master"
+        if(role0=='Chef du service numÃ©rique de la recherche' or role0=='Jefe de Servicio de BiometrÃ\xada'):
+            role0='Project Manager'
+        if(role0=="Bachelor" or role0=="Licenciado" or role0=="Bachelor"):
+            role0='Licence'
+        if(role0=="CLIR/DLF Postdoctoral Fellow in Data Curation for Latin American and Latina/o Studies"):
+            role0="Post-doc"
+        if(role0=='Academic Technology Specialist' or role0=='Digital Scholarship Specialist / IT Analyst'):
+            role0="Engineer"
+        if(role0=="Clinical Assistant Professor and Director of Digital Media Lab"):
+            role0="Assistant Professor"
+        if(role0=='Digital Humanities Librarian' or role0=="Metadata & Cataloging Librarian"):
+            role0='Librarian'
         if role0 in list_role.keys():
             list_role[role0]+=1
         else:
