@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "",
-    "colorLabel": "country",
-    "nodeLabel": "name"
+    "colorLabel": "",
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "line",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
